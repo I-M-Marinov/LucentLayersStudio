@@ -17,7 +17,7 @@
 
 <h3 align="center">  :briefcase: Business Goal:</h3>
   <ul>
-    <li>Increase online presense and showcase the poroduct base in a clean way matching the brand.</li>
+    <li>Increase online presense and showcase the product base in a clean way matching the brand.</li>
   </ul>
 
   <h3 align="center"> :heavy_check_mark: Solution:</h3>
