@@ -72,7 +72,7 @@
 
   <img src="./main-pages-lls.jpg" width="800" />
   <br><br>
-  <img src="./products-pages-lls.jpg" width="800" />
+  <img src="./responsive-products-pages-lls.png" width="800" />
   
   <br>
   
@@ -81,6 +81,7 @@
 <div align="center">
   <h3>📱 Responsive Design Preview</h3>
     <img src="./responsiveness-home-page.png" width="800" />
+    <img src="./responsive-products-pages-home-page.png" width="800" />
   
 </div>
 
