@@ -85,9 +85,17 @@
   
 </div>
 
+   <hr style="border: 0; border-bottom: 1px solid #eaecef; width: 100%;">
+
+   <h3> New product availability ribbons </h3>
+   
+   <img src="./product-ribbons.png" width="800" />
+
+
   <hr style="border: 0; border-bottom: 1px solid #eaecef; width: 100%;">
 
   <h3 align="center">  :spider_web: :computer_mouse: Live Site: </h3>
    <p align="center"> 
      :sparkler: www.lucentlayersstudio.eu :sparkler:
    </p>
+
