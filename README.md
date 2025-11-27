@@ -80,9 +80,7 @@
 
 <div align="center">
   <h3>📱 Responsive Design Preview</h3>
-    <img src="./responsiveness-home-page.png" width="800" />
-   <img src="./responsive-products-pages-home-page.png" width="800" />
-  
+    <img src="./responsiveness-home-page.png" width="800" />  
 </div>
 
    <hr style="border: 0; border-bottom: 1px solid #eaecef; width: 100%;">
