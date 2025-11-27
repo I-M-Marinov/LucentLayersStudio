@@ -85,11 +85,11 @@
 
    <hr style="border: 0; border-bottom: 1px solid #eaecef; width: 100%;">
 
+<div align="center">
    <h3> New product availability ribbons </h3>
-   
    <img src="./product-ribbons.png" width="800" />
-
-
+</div>
+  
   <hr style="border: 0; border-bottom: 1px solid #eaecef; width: 100%;">
 
   <h3 align="center">  :spider_web: :computer_mouse: Live Site: </h3>
