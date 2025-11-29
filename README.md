@@ -88,6 +88,7 @@
 <div align="center">
    <h3> New product availability ribbons </h3>
    <img src="./product-ribbons.png" width="800" />
+   <img src="./product-ribbons-responsive.png" width="800" />
 </div>
   
   <hr style="border: 0; border-bottom: 1px solid #eaecef; width: 100%;">
